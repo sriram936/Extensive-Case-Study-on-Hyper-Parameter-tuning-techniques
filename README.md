@@ -16,6 +16,6 @@ Explore different approaches used in the process of Hyper parameter tuning, to b
 7) Bayesian optimization is also good but it used 80% of CP cores where as all other algos worked with just 20% of cores
 8) Time and accuracy logs can be obseved in the jupyter notebook.
 
-Link to the dataset:
+Link to the dataset(Sloan-Digital-Sky-Survey):
 1) Official link: "https://www.sdss4.org/dr14/data_access/"
 2) Kaggle link: "https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey"
